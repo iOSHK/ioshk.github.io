@@ -228,21 +228,6 @@
   </url>
   
   <url>
-    <loc>https://examplesite.com/</loc>
-    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://examplesite.com/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://examplesite.com/"
-                />
-  </url>
-  
-  <url>
     <loc>https://examplesite.com/installation/</loc>
     <lastmod>2018-12-29T11:02:05+06:00</lastmod>
     <xhtml:link
@@ -254,6 +239,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://examplesite.com/installation/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://examplesite.com/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://examplesite.com/"
                 />
   </url>
   
