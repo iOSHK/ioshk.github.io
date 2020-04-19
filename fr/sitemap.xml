@@ -48,6 +48,21 @@
   </url>
   
   <url>
+    <loc>https://ioshk.github.io/fr/markets/requirments/</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ioshk.github.io/markets/requirments/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://ioshk.github.io/fr/markets/requirments/"
+                />
+  </url>
+  
+  <url>
     <loc>https://ioshk.github.io/fr/installation/install/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
@@ -59,6 +74,21 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://ioshk.github.io/fr/installation/install/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ioshk.github.io/fr/markets/install/</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ioshk.github.io/markets/install/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://ioshk.github.io/fr/markets/install/"
                 />
   </url>
   
@@ -108,6 +138,21 @@
   </url>
   
   <url>
+    <loc>https://ioshk.github.io/fr/markets/configuration/</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ioshk.github.io/markets/configuration/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://ioshk.github.io/fr/markets/configuration/"
+                />
+  </url>
+  
+  <url>
     <loc>https://ioshk.github.io/fr/installation/elements/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
@@ -119,6 +164,21 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://ioshk.github.io/fr/installation/elements/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ioshk.github.io/fr/markets/elements/</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ioshk.github.io/markets/elements/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://ioshk.github.io/fr/markets/elements/"
                 />
   </url>
   
@@ -164,6 +224,21 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://ioshk.github.io/fr/installation/customization/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ioshk.github.io/fr/markets/customization/</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ioshk.github.io/markets/customization/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://ioshk.github.io/fr/markets/customization/"
                 />
   </url>
   
@@ -228,6 +303,21 @@
   </url>
   
   <url>
+    <loc>https://ioshk.github.io/fr/</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ioshk.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://ioshk.github.io/fr/"
+                />
+  </url>
+  
+  <url>
     <loc>https://ioshk.github.io/fr/installation/</loc>
     <lastmod>2018-12-29T11:02:05+06:00</lastmod>
     <xhtml:link
@@ -243,17 +333,17 @@
   </url>
   
   <url>
-    <loc>https://ioshk.github.io/fr/</loc>
-    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+    <loc>https://ioshk.github.io/fr/markets/</loc>
+    <lastmod>2018-12-29T11:02:05+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ioshk.github.io/"
+                href="https://ioshk.github.io/markets/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://ioshk.github.io/fr/"
+                href="https://ioshk.github.io/fr/markets/"
                 />
   </url>
   
