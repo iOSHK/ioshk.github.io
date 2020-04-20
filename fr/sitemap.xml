@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://ioshk.github.io/fr/billing-pricing-copy/ownership/</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ioshk.github.io/billing-pricing-copy/ownership/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://ioshk.github.io/fr/billing-pricing-copy/ownership/"
+                />
+  </url>
+  
+  <url>
     <loc>https://ioshk.github.io/fr/billing-pricing/ownership/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
@@ -48,17 +63,17 @@
   </url>
   
   <url>
-    <loc>https://ioshk.github.io/fr/markets/requirments/</loc>
+    <loc>https://ioshk.github.io/fr/market-prices/requirments/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ioshk.github.io/markets/requirments/"
+                href="https://ioshk.github.io/market-prices/requirments/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://ioshk.github.io/fr/markets/requirments/"
+                href="https://ioshk.github.io/fr/market-prices/requirments/"
                 />
   </url>
   
@@ -78,17 +93,17 @@
   </url>
   
   <url>
-    <loc>https://ioshk.github.io/fr/markets/install/</loc>
+    <loc>https://ioshk.github.io/fr/market-prices/install/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ioshk.github.io/markets/install/"
+                href="https://ioshk.github.io/market-prices/install/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://ioshk.github.io/fr/markets/install/"
+                href="https://ioshk.github.io/fr/market-prices/install/"
                 />
   </url>
   
@@ -104,6 +119,21 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://ioshk.github.io/fr/features/mac/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ioshk.github.io/fr/billing-pricing-copy/manage/</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ioshk.github.io/billing-pricing-copy/manage/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://ioshk.github.io/fr/billing-pricing-copy/manage/"
                 />
   </url>
   
@@ -138,17 +168,17 @@
   </url>
   
   <url>
-    <loc>https://ioshk.github.io/fr/markets/configuration/</loc>
+    <loc>https://ioshk.github.io/fr/market-prices/configuration/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ioshk.github.io/markets/configuration/"
+                href="https://ioshk.github.io/market-prices/configuration/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://ioshk.github.io/fr/markets/configuration/"
+                href="https://ioshk.github.io/fr/market-prices/configuration/"
                 />
   </url>
   
@@ -168,17 +198,32 @@
   </url>
   
   <url>
-    <loc>https://ioshk.github.io/fr/markets/elements/</loc>
+    <loc>https://ioshk.github.io/fr/market-prices/elements/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ioshk.github.io/markets/elements/"
+                href="https://ioshk.github.io/market-prices/elements/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://ioshk.github.io/fr/markets/elements/"
+                href="https://ioshk.github.io/fr/market-prices/elements/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ioshk.github.io/fr/billing-pricing-copy/bill/</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ioshk.github.io/billing-pricing-copy/bill/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://ioshk.github.io/fr/billing-pricing-copy/bill/"
                 />
   </url>
   
@@ -228,17 +273,32 @@
   </url>
   
   <url>
-    <loc>https://ioshk.github.io/fr/markets/customization/</loc>
+    <loc>https://ioshk.github.io/fr/market-prices/customization/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ioshk.github.io/markets/customization/"
+                href="https://ioshk.github.io/market-prices/customization/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://ioshk.github.io/fr/markets/customization/"
+                href="https://ioshk.github.io/fr/market-prices/customization/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ioshk.github.io/fr/billing-pricing-copy/payment/</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ioshk.github.io/billing-pricing-copy/payment/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://ioshk.github.io/fr/billing-pricing-copy/payment/"
                 />
   </url>
   
@@ -269,6 +329,21 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://ioshk.github.io/fr/features/ubuntu/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ioshk.github.io/fr/billing-pricing-copy/profile/</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ioshk.github.io/billing-pricing-copy/profile/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://ioshk.github.io/fr/billing-pricing-copy/profile/"
                 />
   </url>
   
@@ -333,17 +408,32 @@
   </url>
   
   <url>
-    <loc>https://ioshk.github.io/fr/markets/</loc>
+    <loc>https://ioshk.github.io/fr/market-prices/</loc>
     <lastmod>2018-12-29T11:02:05+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ioshk.github.io/markets/"
+                href="https://ioshk.github.io/market-prices/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://ioshk.github.io/fr/markets/"
+                href="https://ioshk.github.io/fr/market-prices/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ioshk.github.io/fr/billing-pricing-copy/</loc>
+    <lastmod>2018-12-28T11:02:05+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ioshk.github.io/billing-pricing-copy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://ioshk.github.io/fr/billing-pricing-copy/"
                 />
   </url>
   
